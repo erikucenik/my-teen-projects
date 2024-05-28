@@ -1,0 +1,27 @@
+[submodule "eriklopez"]
+	path = eriklopez
+	url = https://github.com/Erik-Lopez/eriklopez
+[submodule "colegio"]
+	path = colegio
+	url = https://github.com/Erik-Lopez/colegio
+[submodule "gtd-web"]
+	path = gtd-web
+	url = https://github.com/Erik-Lopez/gtd-web
+[submodule "pinesweeper"]
+	path = pinesweeper
+	url = https://github.com/Erik-Lopez/pinesweeper
+[submodule "quicktran"]
+	path = quicktran
+	url = https://github.com/Erik-Lopez/quicktran
+[submodule "musical-scale-builder"]
+	path = musical-scale-builder
+	url = https://github.com/Erik-Lopez/musical-scale-builder
+[submodule "second_grade_equation_generator"]
+	path = second_grade_equation_generator
+	url = https://github.com/Erik-Lopez/second_grade_equation_generator
+[submodule "knearest-implementation"]
+	path = knearest-implementation
+	url = https://github.com/Erik-Lopez/knearest-implementation
+[submodule "kmeans-implementation"]
+	path = kmeans-implementation
+	url = https://github.com/Erik-Lopez/kmeans-implementation
